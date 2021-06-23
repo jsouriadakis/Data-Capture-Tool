@@ -1,0 +1,94 @@
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Camera Record.exe.config
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Camera Record.exe
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Camera Record.pdb
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Controls.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Imaging.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Math.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Video.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\DansCSharpLibrary.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Google.Protobuf.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MySql.Data.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Newtonsoft.Json.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Renci.SshNet.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\System.Buffers.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\System.Memory.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Zstandard.Net.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Controls.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Imaging.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Math.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Video.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\DansCSharpLibrary.pdb
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\DansCSharpLibrary.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Google.Protobuf.pdb
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Google.Protobuf.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MySql.Data.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Newtonsoft.Json.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Renci.SshNet.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\System.Buffers.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\System.Memory.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera_Record.Form1.resources
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera_Record.Properties.Resources.resources
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera Record.csproj.GenerateResource.cache
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera Record.csproj.CoreCompileInputs.cache
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera Record.csproj.CopyComplete
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera Record.exe
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera Record.pdb
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\LiveCharts.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\LiveCharts.WinForms.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\LiveCharts.Wpf.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Charting.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Charting.WinForms.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Common.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Gauges.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Licensing.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Pdf.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Scripting.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Svg.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\LiveCharts.pdb
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\LiveCharts.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\LiveCharts.WinForms.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\LiveCharts.Wpf.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Charting.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\MindFusion.Charting.WinForms.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\CsvHelper.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\System.ValueTuple.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\CsvHelper.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\System.ValueTuple.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera_Record.Form2.resources
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\avcodec-57.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\avdevice-57.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\avfilter-6.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\avformat-57.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\avutil-55.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\postproc-54.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\swresample-2.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\swscale-4.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.dll.config
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.Video.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.Video.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.Video.DirectShow.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.Video.FFMPEG.x64.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.Video.VFW.dll
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.Video.DirectShow.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.Video.FFMPEG.x64.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\bin\Release\Accord.Video.VFW.xml
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera_Record.Start.resources
+C:\Users\PWW\source\repos\data_acquisition\Camera Record\obj\x86\Release\Camera Record.csprojAssemblyReference.cache
